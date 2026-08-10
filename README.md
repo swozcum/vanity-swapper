@@ -41,7 +41,7 @@ Ekstra bağımlılık kurulumuna gerek yoktur.
 3. `MFA Fixlendi` çıktısını gördükten sonra **Enter**'a bas.
 4. İşlem tamamlanana kadar bekle; işlem sonucu ekranda görünecek.
 
-> 💡 MFA Fixlendi çıktısını gördükten sonra maximum **5 Dakika** içinde **Enter** bas.
+> 💡 MFA Fixlendi çıktısını gördükten sonra maximum **4 Dakika** içinde **Enter** bas.
 
 ## 💬 Destek ve Topluluk
 
