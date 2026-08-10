@@ -35,8 +35,9 @@ Ekstra bağımlılık kurulumuna gerek yoktur.
    - **Silinecek URL:** Taşımak istediğin vanity URL
    - **Guild ID:** URL'nin taşınacağı hedef sunucu ID
    - **URL'yi Silecek Token:** URL'nin silineceği sunucuda yetkisi olan token
-   - **URL'yi Alacak Token:** URL'mim çekileceği sunucuda yetkisi olan token
-   - **Şifreler:** İlgili hesapların şifreleri
+   - **URL'yi Alacak Token:** URL'nin çekileceği sunucuda yetkisi olan token
+   - **Url'yi silicek tokenin sifresi:** URL'nin silineceği sunucuda yetkisi olan tokenin şifresi
+   - **Url'yi alicak tokenin sifresi:** URL'nin çekileceği sunucuda yetkisi olan tokenin şifresi
 3. `MFA Fixlendi` çıktısını gördükten sonra **Enter**'a bas.
 4. İşlem tamamlanana kadar bekle; işlem sonucu ekranda görünecek.
 
